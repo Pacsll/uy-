@@ -1,5 +1,6 @@
 <script setup lang="ts">
-
+let a=1
+const aj=()=>{a+=1}
 </script>
 <template>
 <div>
